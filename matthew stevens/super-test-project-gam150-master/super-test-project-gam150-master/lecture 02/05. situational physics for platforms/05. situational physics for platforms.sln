@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. situational physics for platforms", "05. situational physics for platforms.csproj", "{2B91709D-C071-5C95-EFB6-AEA707D76EC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. situational physics for platforms.Editor", "05. situational physics for platforms.Editor.csproj", "{B55F8374-192E-C07C-07DF-30EEF25FFD56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B91709D-C071-5C95-EFB6-AEA707D76EC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B91709D-C071-5C95-EFB6-AEA707D76EC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B91709D-C071-5C95-EFB6-AEA707D76EC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B91709D-C071-5C95-EFB6-AEA707D76EC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B55F8374-192E-C07C-07DF-30EEF25FFD56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B55F8374-192E-C07C-07DF-30EEF25FFD56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B55F8374-192E-C07C-07DF-30EEF25FFD56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B55F8374-192E-C07C-07DF-30EEF25FFD56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {992D73D5-F4F1-47E7-850D-9DBDC24907AB}
+	EndGlobalSection
+EndGlobal

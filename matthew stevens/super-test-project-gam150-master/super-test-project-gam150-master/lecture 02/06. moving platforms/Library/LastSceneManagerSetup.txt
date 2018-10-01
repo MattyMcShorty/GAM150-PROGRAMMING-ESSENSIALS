@@ -1,0 +1,5 @@
+sceneSetups:
+- path: D:/matthew stevens/super-test-project-gam150-master/super-test-project-gam150-master/lecture
+    02/03. death/Assets/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
